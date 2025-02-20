@@ -1,1 +1,32 @@
 /* write your override styles here */
+#tag-1{
+    display: none;
+}
+#tag-2{
+    display: none;
+}
+#tag-3{
+    display: none;
+}
+#tag-4{
+    display: none;
+}
+#tag-5{
+    display: none;
+}
+#tag-6{
+    display: none;
+}
+#tag-6{
+    display: none;
+}
+#tag-6{
+    display: none;
+}
+#tag-7{
+    display: none;
+}
+.slick{
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(../images/tag-6.png) no-repeat;
+}
